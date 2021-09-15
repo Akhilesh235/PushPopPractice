@@ -15,7 +15,7 @@ namespace PushPopPractice
             // Car c = new Car();
             Element temp = new Element();
 
-            temp.displayValue();
+            //temp.displayValue();
             //Stack<string> stack = new Stack<string>();
             //stack.Push("A");
             //stack.Push("B");
